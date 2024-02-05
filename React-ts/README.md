@@ -1,6 +1,6 @@
 # templify + React + TypeScript
 
-Default templates for [templify](https://github.com/cophilot/templify) for a React project with TypeScript.
+Default templates for [templify](https://github.com/cophilot/templify) for a React project with TypeScript and SCSS.
 
 ---
 
@@ -9,6 +9,26 @@ Default templates for [templify](https://github.com/cophilot/templify) for a Rea
 ```bash
 tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts
 ```
+
+---
+
+## Available templates
+
+### Component
+
+A React component with TypeScript and SCSS.
+
+### Provider
+
+A React context provider with TypeScript.
+
+### Type
+
+A TypeScript type.
+
+### View
+
+A React view with TypeScript and SCSS.
 
 ---
 

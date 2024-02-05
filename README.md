@@ -22,4 +22,14 @@
 
 ---
 
+## [React-ts](React-ts/)
+
+Default templates for React projects with TypeScript and SCSS.
+
+```bash
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts
+```
+
+---
+
 by [Philipp B.](https://github.com/cophilot)
