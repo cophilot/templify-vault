@@ -22,6 +22,12 @@
 
 ---
 
+This repository contains default templates for several technologies using [templify](https://github.com/cophilot/templify). You can add these templates to your project by using the templify CLI and the `load` command.
+
+You can also create your own _templify-vault_ by using this repository as a template or by creating a new repository with the same structure. _Note: When you want to use the `load` command, the repository must be public and you have to use the `https` link._
+
+---
+
 ## [React-ts](React-ts/)
 
 Default templates for React projects with TypeScript and SCSS.
