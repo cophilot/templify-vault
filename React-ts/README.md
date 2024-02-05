@@ -7,7 +7,7 @@ Default templates for [templify](https://github.com/cophilot/templify) for a Rea
 ## Load this template
 
 ```bash
-tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts -f
 ```
 
 ---

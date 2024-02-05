@@ -33,7 +33,7 @@ You can also create your own _templify-vault_ by using this repository as a temp
 Default templates for React projects with TypeScript and SCSS.
 
 ```bash
-tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts -f
 ```
 
 ---
