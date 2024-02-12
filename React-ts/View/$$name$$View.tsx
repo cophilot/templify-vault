@@ -1,5 +1,11 @@
 import './$$name$$View.scss';
 
+/**
+ * This is the $$name$$ view
+ * @author $$git-name$$
+ * @version 1.0.0
+ * @created $$year$$-$$month$$-$$day$$
+ */
 function $$name$$View() {
     return (
         <div className="content">
