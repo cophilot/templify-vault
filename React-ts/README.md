@@ -32,4 +32,8 @@ A React view with TypeScript and SCSS.
 
 ---
 
+Use this with [templify](https://templify.philipp-bonin.com/) to generate new files from this template.
+
+---
+
 by [Philipp B.](https://github.com/cophilot)
