@@ -1,6 +1,6 @@
 # templify + React + TypeScript
 
-Default templates for [templify](https://github.com/cophilot/templify) for a React project with TypeScript and SCSS.
+Default templates for a React project with TypeScript and SCSS.
 
 ---
 

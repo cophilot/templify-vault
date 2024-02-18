@@ -1,6 +1,6 @@
-# $$name$$
+# templify + $$name$$
 
-$$name$$Description
+Default templates for a $$name$$ project.
 
 ---
 
