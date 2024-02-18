@@ -30,6 +30,14 @@ You can also create your own _templify-vault_ by using this repository as a temp
 
 ## Available Collections
 
+### [Angular17](Angular17/)
+
+Default templates for a Angular 17 project.
+
+```bash
+tpy load https://github.com/cophilot/templify-vault/tree/main/Angular17
+```
+
 ### [React-js](React-js/)
 
 Default templates for a React project with JavaScript and SCSS.
