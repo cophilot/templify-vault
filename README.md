@@ -28,22 +28,22 @@ You can also create your own _templify-vault_ by using this repository as a temp
 
 ---
 
-## [React-ts](React-ts/)
+## Available Collections
+
+### [React-ts](React-ts/)
 
 Default templates for a React project with TypeScript and SCSS.
 
 ```bash
-tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts -f
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts
 ```
 
----
-
-## [React-js](React-js/)
+### [React-js](React-js/)
 
 Default templates for a React project with JavaScript and SCSS.
 
 ```bash
-tpy load https://github.com/cophilot/templify-vault/tree/main/React-js -f
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-js
 ```
 
 ---

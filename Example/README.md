@@ -1,13 +1,13 @@
 # Example
 
-A example template.
+An example template.
 
 ---
 
-## Load this template
+## Load this Collection
 
 ```bash
-tpy load https://github.com/cophilot/templify-vault/tree/main/Example -f
+tpy load https://github.com/cophilot/templify-vault/tree/main/Example
 ```
 
 ---
@@ -16,7 +16,11 @@ tpy load https://github.com/cophilot/templify-vault/tree/main/Example -f
 
 ### Example
 
-A example template.
+An example template.
+
+```bash
+tpy load https://github.com/cophilot/templify-vault/tree/main/Example/Example -t
+```
 
 ---
 

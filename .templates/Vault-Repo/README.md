@@ -4,19 +4,23 @@ $$name$$Description
 
 ---
 
-## Load this template
+## Load this Collection
 
 ```bash
-tpy load https://github.com/cophilot/templify-vault/tree/main/$$name$$ -f
+tpy load https://github.com/cophilot/templify-vault/tree/main/$$name$$
 ```
 
 ---
 
 ## Available templates
 
-### Template
+### xTemplate
 
 Description
+
+```bash
+tpy load https://github.com/cophilot/templify-vault/tree/main/$$name$$/xTemplate -t
+```
 
 ---
 

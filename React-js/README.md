@@ -4,10 +4,10 @@ Default templates for a React project with JavaScript and SCSS.
 
 ---
 
-## Load this template
+## Load this Collection
 
 ```bash
-tpy load https://github.com/cophilot/templify-vault/tree/main/React-js -f
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-js
 ```
 
 ---
@@ -18,13 +18,25 @@ tpy load https://github.com/cophilot/templify-vault/tree/main/React-js -f
 
 A React component with JavaScript and SCSS.
 
+```bash
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-js/Component -t
+```
+
 ### Provider
 
 A React context provider with JavaScript.
 
+```bash
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-js/Provider -t
+```
+
 ### View
 
 A React view with JavaScript and SCSS.
+
+```bash
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-js/View -t
+```
 
 ---
 

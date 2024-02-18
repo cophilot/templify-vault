@@ -4,10 +4,10 @@ Default templates for [templify](https://github.com/cophilot/templify) for a Rea
 
 ---
 
-## Load this template
+## Load this Collection
 
 ```bash
-tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts -f
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts
 ```
 
 ---
@@ -18,17 +18,33 @@ tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts -f
 
 A React component with TypeScript and SCSS.
 
+```bash
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts/Component -t
+```
+
 ### Provider
 
 A React context provider with TypeScript.
+
+```bash
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts/Provider -t
+```
 
 ### Type
 
 A TypeScript type.
 
+```bash
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts/Type -t
+```
+
 ### View
 
 A React view with TypeScript and SCSS.
+
+```bash
+tpy load https://github.com/cophilot/templify-vault/tree/main/React-ts/View -t
+```
 
 ---
 
