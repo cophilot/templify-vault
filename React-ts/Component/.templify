@@ -3,4 +3,4 @@
 # description:The description of the template
 # path:The path of the template
 description:A default template for a new react-component
-path:src/components/$$name$$
+path:src/components/$$name.pascal$$

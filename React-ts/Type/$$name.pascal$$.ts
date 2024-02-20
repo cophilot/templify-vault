@@ -1,10 +1,9 @@
 /**
  * A class representing a $$name.pascal$$.
- * @date $$year$$-$$month$$-$$day$$
  * @author $$git-name$$
+ * @version 1.0.0
+ * @created $$year$$-$$month$$-$$day$$
  */
-class $$name.pascal$$ {
-    constructor() {}
-}
+class $$name.pascal$$ {}
 
 export default $$name.pascal$$;
