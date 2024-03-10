@@ -37,6 +37,8 @@ This repository contains default templates for several technologies using [templ
 
 ## Available Collections
 
+<!-- DOC-START -->
+
 ### [Angular17](Angular17/)
 
 Default templates for a Angular 17 project.
@@ -68,6 +70,8 @@ Default templates for a Vue 3 project with TypeScript and SCSS.
 ```bash
 tpy load https://github.com/cophilot/templify-vault/tree/main/Vue3
 ```
+
+<!-- DOC-END -->
 
 ---
 
