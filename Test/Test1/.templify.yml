@@ -2,5 +2,5 @@
 # You can use the following variables in this file:
 # description:The description of the template
 # path:The path of the template
-description:This is used to test templify
-path:src
+description: This is used to test templify
+path: src
